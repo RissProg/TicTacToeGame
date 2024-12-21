@@ -1,0 +1,17 @@
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.Form1.resources
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\bin\Debug\net8.0-windows\TickTackToe.exe
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\bin\Debug\net8.0-windows\TickTackToe.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\bin\Debug\net8.0-windows\TickTackToe.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\bin\Debug\net8.0-windows\TickTackToe.dll
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\bin\Debug\net8.0-windows\TickTackToe.pdb
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.dll
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\refint\TickTackToe.dll
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.pdb
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\TickTackToe.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\TickTackToe\TickTackToe\obj\Debug\net8.0-windows\ref\TickTackToe.dll
